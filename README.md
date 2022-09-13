@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Next js , AWS**
 
-- 👨‍💻 All of my projects are available at [https://ahmedmeddhatt.github.io/Portfolio/](https://ahmedmeddhatt.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ahmedmeddhatt.github.io/Portfolio/)
 
 - 📫 How to reach me **ahmedmedhat1231@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10uA_-mw5KXH7I6aaikeDgqbfMFC-FskP/view?usp=sharing](https://drive.google.com/file/d/10uA_-mw5KXH7I6aaikeDgqbfMFC-FskP/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/10uA_-mw5KXH7I6aaikeDgqbfMFC-FskP/view?usp=sharing)
 
 - ⚡ Fun fact **You never know what's next !**
 
