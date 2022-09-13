@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Medhat</h1>
-<h3 align="center">A passionate Backend Developer Node js . Good knowledge and proficiency in JavaScript, Express.js , MongoDB, and Postgres Database, as well as strong skills and ability in writing clean and efficient code.</h3>
+<h3 align="center">A Passionate Backend Developer Node js . Good knowledge and proficiency in JavaScript, Express.js , MongoDB, and Postgres Database, as well as strong skills and ability in writing clean and efficient code.</h3>
 <p><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></p>
 
 
