@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Medhat</h1>
-<h3 style="color:red" align="center">A Passionate Backend Developer Node js . Good knowledge and proficiency in JavaScript, Express.js , MongoDB, and Postgres Database, as well as strong skills and ability in writing clean and efficient code.</h3>
+<h3 color="red" align="center">A Passionate Backend Developer Node js . Good knowledge and proficiency in JavaScript, Express.js , MongoDB, and Postgres Database, as well as strong skills and ability in writing clean and efficient code.</h3>
 <p><img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></p>
 
 
-<p style="color:red" align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmeddhatt&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmeddhatt" /> </p>
+<p color="red" align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmeddhatt&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmeddhatt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmeddhatt" alt="ahmedmeddhatt" /></a> </p>
 
